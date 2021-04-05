@@ -16,7 +16,7 @@ Follow-up work to the above that aims to analyze the dynamics of attention in Tr
 
 ### Echo-State RNN
 
-Also a follow-up to the multi-class RNN work above. I am to leverage our understanding of how RNNs trained on such tasks behave in order to better understand the efficacy of echo-state networks. 
+Also a follow-up to the multi-class RNN work above. I aim to leverage our understanding of how RNNs trained on such tasks behave in order to better understand the efficacy of echo-state networks. 
 
 ### RNN RL
 
