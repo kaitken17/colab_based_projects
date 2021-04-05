@@ -1,7 +1,8 @@
 # Colab-Based Projects
 
 Several of my projects have been work based primarily in Google Colab, and they are collected here. Many of these are still works in progress.
-### RNN Multiclass Integration
+
+### RNN Multiclass
 
 Code for the project resulting in our [Geometry of Integration in Text Classification RNNs paper](https://arxiv.org/pdf/2010.15114.pdf) (accepted to ICLR 2021). This work uses tools from dynamical systems analysis to better understand recurrent networks trained on text-classiciation tasks. Note this work relies on the [reverse-engineering neural networks (renn) library](https://github.com/google-research/reverse-engineering-neural-networks).
 
