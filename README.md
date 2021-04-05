@@ -8,7 +8,7 @@ Large learning rate work that is a follow-up to [large learning rate and catapul
 
 ### RNN Multiclass Integration
 
-Code for the project resulting in our [Geometry of Integration in Text Classification RNNs paper](https://arxiv.org/pdf/2010.15114.pdf) (accepted to ICLR 2021). Note this work relies on the [reverse-engineering neural networks (renn) library](https://github.com/google-research/reverse-engineering-neural-networks).
+Code for the project resulting in our [Geometry of Integration in Text Classification RNNs paper](https://arxiv.org/pdf/2010.15114.pdf) (accepted to ICLR 2021). This work uses tools from dynamical systems analysis to better understand recurrent networks trained on text-classiciation tasks. Note this work relies on the [reverse-engineering neural networks (renn) library](https://github.com/google-research/reverse-engineering-neural-networks).
 
 ### RNN Seq2Seq
 
@@ -18,3 +18,6 @@ Follow-up work to the above that aims to analyze the dynamics of attention in Tr
 
 Also a follow-up to the multi-class RNN work above. I am to leverage our understanding of how RNNs trained on such tasks behave in order to better understand the efficacy of echo-state networks. 
 
+### RNN RL
+
+Some early work attempting to apply our dynamical systems analysis to RNNs trained on reinforcement learning tasks.
