@@ -8,7 +8,7 @@ Code for the project resulting in our [Geometry of Integration in Text Classific
 
 ### RNN Seq2Seq
 
-Follow-up work to the above that aims to analyze the dynamics of attention in Transformer-like and recurrent architectures. A paper based on this work has been submitted to ICML 2021.
+Follow-up work to the above that aims to analyze the dynamics of attention in Transformer-like and recurrent architectures. A paper based on this work has been submitted to ICML 2021. (See this for most recent coding samples.)
 
 ### Echo-State RNN
 
